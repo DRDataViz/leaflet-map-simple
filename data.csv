@@ -1,4 +1,9 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Name,Address,Latitude,Longitude,Found Address,Geocode Quality,Geocode Source,URL,Cost
+Fern Mountain Recreation Area,"100 Loomis Road, Inlet NY 13360",43.7491423,-74.7971193,"100 Loomis Rd, Inlet, NY 13360, USA",Partial Match,Google,http://inletny.com/wp/?p=382,Free
+Osceola Ski Center,"1486 Osceola Road, Camden NY 13316",43.501377,-75.700239,"1486 Osceola Rd, Camden, NY 13316, USA",Match,Google,http://www.uxcski.com/,$12/day
+Barnes Corners Ski Trails,"Route 177, Copenhagen NY 13626",43.8026621,-75.6801462,"NY-177, Copenhagen, NY 13626, USA",Partial Match,Google,http://www.dec.ny.gov/outdoor/8375.html,Free
+BREIA Trails,"13159 State Route 12, Boonville NY 13309",43.4762379,-75.3164424,"13159 NY-12, Boonville, NY 13309, USA",Partial Match,Google,http://www.breiax-countryski.org/,Free
+Stoney Pond State Forest,"Jones Road, Nelson, NY  NY 13035",42.8859439,-75.7236609,"Jones Rd, Erieville, NY 13061, USA",Partial Match,Google,http://www.dec.ny.gov/lands/8111.html,Free
+Pidgeon Lake Wilderness Area,"200 Big Moose Road, Eagle Bay NY 13331",43.8164925,-74.8606946,"200 Big Moose Rd, Eagle Bay, NY 13331, USA",Match,Google,http://www.adirondacks.com/xskiherkimer.html,Free
+Lapland Lake Nordic Vacation Center,"139 Lapland Lake Road, Northville NY 12134",43.2539772,-74.3295433,"139 Lapland Lake Rd, Northville, NY 12134, USA",Match,Google,http://www.laplandlake.com/,$22/day
+Erie Canal (Rome-Utica),"6895 Rome-Oriskany Rd, Rome NY 13440",43.1932437,-75.4304606,"6895 Rome-Oriskany Rd, Rome, NY 13440, USA",Match,Google,http://www.eriecanalway.org/,Free
