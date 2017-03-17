@@ -1,4 +1,4 @@
-Name,Address,Latitude,Longitude,Found Address,Geocode Quality,Geocode Source,URL,Cost
+Title,Address,Latitude,Longitude,Found Address,Geocode Quality,Geocode Source,URL,Cost
 Fern Mountain Recreation Area,"100 Loomis Road, Inlet NY 13360",43.7491423,-74.7971193,"100 Loomis Rd, Inlet, NY 13360, USA",Partial Match,Google,http://inletny.com/wp/?p=382,Free
 Osceola Ski Center,"1486 Osceola Road, Camden NY 13316",43.501377,-75.700239,"1486 Osceola Rd, Camden, NY 13316, USA",Match,Google,http://www.uxcski.com/,$12/day
 Barnes Corners Ski Trails,"Route 177, Copenhagen NY 13626",43.8026621,-75.6801462,"NY-177, Copenhagen, NY 13626, USA",Partial Match,Google,http://www.dec.ny.gov/outdoor/8375.html,Free
