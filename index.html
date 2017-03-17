@@ -60,7 +60,6 @@
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
       layer.bindPopup(feature.properties.Title);
-        layer.bindPopup(feature.properties.Address);
     }
    });
    var runLayer = omnivore.csv('data.csv', null, customLayer)
