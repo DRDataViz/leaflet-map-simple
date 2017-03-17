@@ -21,7 +21,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Sample Leaflet Map (copied from template)</div>
+  <div id="map-title">Favorite XC Ski Areas, Upstate NY</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -60,6 +60,11 @@
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
       layer.bindPopup(feature.properties.Title);
+        layer.bindPopup(feature.properties.Address);
+        layer.bindPopup(feature.properties.Cost);
+        layer.bindPopup(feature.properties.URL);
+        layer.bindPopup(feature.properties.Latitude);
+        layer.bindPopup(feature.properties.Longitude);
     }
    });
    var runLayer = omnivore.csv('data.csv', null, customLayer)
